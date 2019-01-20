@@ -9,4 +9,4 @@ To run this application :
 4) Connect the local server to the Eclipse IDE.
 5) Run the application.
 
-You also deploy the WAR file of this project to your local serer and then directly run it in any browser .
+You also deploy the WAR file of this project in your local server and then directly run it in any browser .
